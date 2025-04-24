@@ -1,0 +1,10 @@
+{
+    "ReceiverAgent": {
+        "identity_key": "07822537242451cf2d3f9b618bae4ed88666c4ee831a92f1d269e8e9f5c46fd8",
+        "wallet_key": "GuXfwJx5DxK7ap1b/jnhfVjD39nr+i5kPa++u/wHwRc="
+    },
+    "SenderAgent": {
+        "identity_key": "e53cd6d0ee743cd7002ccbf319b53771a08958e991219da1801604323bbc3c40",
+        "wallet_key": "meIgRc+548VRgt717fPL7pUa/ADTX/qOVg3TM09f7dU="
+    }
+}
